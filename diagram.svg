@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 700" role="img" aria-labelledby="diagram-title diagram-desc">
+  <title id="diagram-title">Relational structure diagram</title>
+  <desc id="diagram-desc">An abstract geometric network composed of labeled points connected by fine lines in a three-dimensional arrangement.</desc>
+  <g fill="none" stroke="#575853" stroke-width="1.15" opacity="0.75">
+    <path d="M130 410 L300 520 L520 490 L690 365 L500 250 L285 275 Z"/>
+    <path d="M285 275 L300 520 M500 250 L520 490 M690 365 L610 140 M500 250 L610 140 M285 275 L420 95 M130 410 L420 95"/>
+    <path d="M130 410 L500 250 M130 410 L520 490 M130 410 L610 140 M130 410 L690 365"/>
+    <path d="M285 275 L520 490 M285 275 L690 365 M285 275 L610 140"/>
+    <path d="M300 520 L500 250 M300 520 L690 365 M300 520 L610 140 M300 520 L420 95"/>
+    <path d="M520 490 L610 140 M520 490 L420 95"/>
+    <path d="M690 365 L420 95"/>
+    <path d="M500 250 L420 95"/>
+    <path d="M225 335 L390 380 L560 340 L470 195 Z"/>
+    <path d="M225 335 L300 520 M225 335 L420 95 M225 335 L610 140 M225 335 L690 365"/>
+    <path d="M390 380 L130 410 M390 380 L500 250 M390 380 L520 490 M390 380 L610 140 M390 380 L420 95"/>
+    <path d="M560 340 L285 275 M560 340 L300 520 M560 340 L610 140 M560 340 L420 95"/>
+    <path d="M470 195 L130 410 M470 195 L300 520 M470 195 L520 490 M470 195 L690 365"/>
+    <path d="M185 470 L350 445 L480 410 L635 430" stroke-dasharray="6 5"/>
+    <path d="M210 245 L350 180 L525 205 L670 285" stroke-dasharray="5 6"/>
+    <path d="M185 470 L470 195 M210 245 L520 490 M350 180 L690 365 M525 205 L300 520" stroke-dasharray="3 5"/>
+  </g>
+  <g fill="none" stroke="#151515" stroke-width="2.2">
+    <path d="M130 410 L300 520 L520 490 L690 365"/>
+    <path d="M130 410 L500 250 L690 365"/>
+    <path d="M300 520 L610 140 L690 365"/>
+  </g>
+  <g fill="#151515">
+    <circle cx="130" cy="410" r="4.7"/>
+    <circle cx="285" cy="275" r="3.8"/>
+    <circle cx="300" cy="520" r="4.7"/>
+    <circle cx="420" cy="95" r="4.7"/>
+    <circle cx="500" cy="250" r="4.7"/>
+    <circle cx="520" cy="490" r="4.7"/>
+    <circle cx="610" cy="140" r="4.7"/>
+    <circle cx="690" cy="365" r="4.7"/>
+    <circle cx="225" cy="335" r="3.5"/>
+    <circle cx="390" cy="380" r="3.5"/>
+    <circle cx="560" cy="340" r="3.5"/>
+    <circle cx="470" cy="195" r="3.5"/>
+    <circle cx="350" cy="445" r="3.1"/>
+    <circle cx="480" cy="410" r="3.1"/>
+    <circle cx="350" cy="180" r="3.1"/>
+    <circle cx="525" cy="205" r="3.1"/>
+  </g>
+  <g font-family="IBM Plex Mono, monospace" font-size="17" fill="#151515">
+    <text x="84" y="415">P12</text>
+    <text x="250" y="258">P3</text>
+    <text x="286" y="554">P7</text>
+    <text x="406" y="72">P3</text>
+    <text x="487" y="232">P5</text>
+    <text x="511" y="522">X2</text>
+    <text x="596" y="116">P8</text>
+    <text x="704" y="370">A2</text>
+    <text x="195" y="326">P7</text>
+    <text x="570" y="332">P4</text>
+  </g>
+  <g fill="none" stroke="#575853" stroke-width="0.8" opacity="0.6">
+    <path d="M110 410 H130 M300 520 V548 M420 72 V95 M690 365 H716 M610 118 V140"/>
+  </g>
+</svg>
